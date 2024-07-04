@@ -23,7 +23,10 @@ body {
     font-size: 2rem;
     padding: 20px;
     animation: glow 2s linear infinite alternate;
-    background-color: #000000a2;
+    background: linear-gradient(rgba(0, 0, 0, 0.793), rgba(0, 0, 0, 0.832)), url(./dragon-robotic-armor-3d-ultra-realistic-wallpaper-and-background-design-illustration-generative-ai-free-photo.jpg);
+    background-size: cover;
+    background-position: top;
+    background-attachment: fixed;
 }
 
 .video-sec {
