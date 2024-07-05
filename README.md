@@ -1,6 +1,6 @@
 # Manthan's Personal Website
 
-This repository contains the code for Manthan's personal website, showcasing his skills and projects.
+This repository contains the code for Manthan's personal website, showcasing my skills and projects.
 
 ## Overview
 
